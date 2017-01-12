@@ -1,2 +1,2 @@
 # py-test-wrapper
-Simple python test executor using unittest testing framework
+Simple python test executor using python's unittest testing framework
